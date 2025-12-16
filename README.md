@@ -19,7 +19,7 @@
 <h4 align="center">- Donations -</h4>
 
 💰 Support Me! **Send some donations my way! :)** <br>
-[https://ko-fi.com/53abdul]([https://ko-fi.com/53abdul])
+[https://ko-fi.com/53abdul](https://ko-fi.com/53abdul)
 
 All donations appreciated! <br>
 
