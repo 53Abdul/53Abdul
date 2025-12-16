@@ -35,12 +35,3 @@ All donations appreciated! <br>
 </p>
 
 <p align="center">Yes, this README itself already uses HTML 😉</p>
-
----
-
-<h4 align="center">- Contribution Snake! -</h4>
-
-<p align="center">
-    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-</p>
